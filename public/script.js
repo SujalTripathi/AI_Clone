@@ -1,4 +1,4 @@
-const APIURL = "http://localhost:3000/api/gemini"; 
+const APIURL = "/api/gemini";
 
 const chatArea = document.getElementById("chatArea");
 const input = document.getElementById("text-input");
