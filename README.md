@@ -87,8 +87,3 @@ Open your browser and visit: [http://localhost:3000](http://localhost:3000)
 
 Made with 💻 by [Sujal Tripathi](https://github.com/SujalTripathi)
 
----
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE)
